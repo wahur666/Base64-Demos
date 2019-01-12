@@ -1,0 +1,13 @@
+name: base64-crystal
+version: 0.1.0
+
+authors:
+  - Szecsődi Imre <imre.secodi@gmail.com>
+
+targets:
+  base64-crystal:
+    main: src/base64-crystal.cr
+
+crystal: 0.27.0
+
+license: MIT
