@@ -2,3 +2,11 @@ csharp/UnitTestProject1/obj/
 csharp/Base64CSharp/obj/Debug/Base64CSharp.pdb
 csharp/Base64CSharp/bin/
 csharp/Base64CSharp/obj/
+cpp/.vs/
+csharp/.vs/
+cpp/UnitTest1/x64/
+cpp/Base64/x64/Debug/Base64.tlog/Base64.lastbuildstate
+csharp/UnitTestProject1/bin/Debug/Base64CSharp.exe
+cpp/Base64/x64/
+csharp/UnitTestProject1/bin/
+rust/.vscode/

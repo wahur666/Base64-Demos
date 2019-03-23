@@ -1,0 +1,8 @@
+[package]
+name = "rustbase64"
+version = "0.1.0"
+authors = ["wahur666 <imre.secodi@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+itertools = "0.8.0"
