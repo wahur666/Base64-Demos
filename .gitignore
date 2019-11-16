@@ -10,3 +10,5 @@ csharp/UnitTestProject1/bin/Debug/Base64CSharp.exe
 cpp/Base64/x64/
 csharp/UnitTestProject1/bin/
 rust/.vscode/
+.vscode/
+.idea/
